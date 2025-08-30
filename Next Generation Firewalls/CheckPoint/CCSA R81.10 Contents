@@ -1,0 +1,47 @@
+# CCSA R81.x Training — Updated Table of Contents
+- 1. Introduction & Core Concepts
+  - Overview of Check Point Technology & Platform Architecture
+  - Understanding the Check Point Three-Tier Architecture (Management Server, Security Gateway, Log Server)
+- 2. Gaia Operating System & Management
+  - Navigating the Gaia OS & WebUI
+  - SmartConsole Features, Functions & Tools
+- 3. Licensing & Contract Management
+  - Managing Licenses and SmartConsole Activation
+  - Policy Management and Layered Architecture
+- 4. Object Management
+  - Creating and Managing Host, Network, and Group Objects
+- 5. Security Policy Configuration
+  - Defining Essential Elements of Security Policy
+  - Installing and Managing Policy Layers and Packages
+- 6. Traffic Inspection & Monitoring
+  - Leveraging Traffic Visibility Tools
+  - Viewing Logs, Alerts & Security Events in SmartView Monitor
+- 7. Network Address Translation (NAT)
+  - Implementing Manual and Automatic NAT
+- 8. Application Control & URL Filtering
+  - Configuring Application Control and URL Filtering Blades
+- 9. Threat Prevention & IPS
+  - Infinity Threat Prevention Solutions
+  - Intrusion Prevention System — Configuration and Tuning
+- 10. VPN Fundamentals
+  - Basic Concepts of VPN and Remote Access
+- 11. High Availability & ClusterXL (Advanced)
+  - Implementing ClusterXL for Gateway Clustering
+- 12. Identity Awareness & User Access
+  - Configuring Identity Awareness & Granular User Role-Based Access
+- 13. Backup, Restore & Snapshots
+  - Managing System Backups & Restorations
+  - Using Snapshots to Safeguard Configurations
+- 14. Performance Monitoring & Maintenance
+  - Monitoring System Health, Performance Tuning, and Logs
+- 15. IoT Protection
+  - Features of Check Point’s IoT Protect Framework
+- 16. Hands-on Labs & Practical Scenarios
+  - Deploying Security Management Server & Gateway
+  - Running “First Time Wizard” via the WebUI
+  - Gateway Installation and SIC Configuration
+  - Testing & Validating SIC Status
+  - Building Security Policies via Object Configuration
+  - Configuring NAT, VPN, Application Control, and URL Filtering
+
+Using Gaia Portal and CLI for Management Tasks
